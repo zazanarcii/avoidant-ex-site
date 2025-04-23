@@ -64,7 +64,7 @@
     <h2>The Slow Unraveling</h2>
     <p>The first few months were perfect. Fast replies, deep conversations, constant calls. But once the honeymoon phase ended, she started pulling away. Messages became slower. She rarely initiated calls. I was the only one keeping us alive.</p>
 
-    <p>Then came the first breakup — a sudden "I can't do this" text out of nowhere. She came back hours later like nothing happened. That's when I realized something was wrong. I started researching and discovered avoidant attachment. Suddenly, everything made sense:</p>
+    <p>Then came the first breakup  a sudden "I can't do this" text out of nowhere. She came back hours later like nothing happened. That's when I realized something was wrong. I started researching and discovered avoidant attachment. Suddenly, everything made sense:</p>
     <ul>
       <li>She couldn't handle emotional intimacy</li>
       <li>Any conflict made her shut down completely</li>
@@ -99,7 +99,7 @@
 
     <p>She wants me to be the villain? Good. Because villains don't just walk away. They don't sit quietly while someone ruins their name.</p>
 
-    <p>I won't lie — I've thought about revenge. About exposing her for the coward she is. About making sure everyone knows exactly how she destroys people and walks away like it's nothing.</p>
+    <p>I won't lie  I've thought about revenge. About exposing her for the coward she is. About making sure everyone knows exactly how she destroys people and walks away like it's nothing.</p>
 
     <p>But here's the ugly truth: She's not worth it.</p>
 
@@ -135,12 +135,12 @@
       <li><strong>When someone shows you who they are, believe them:</strong> Her actions spoke louder than all her empty words.</li>
     </ul>
 
-    <p>She was right about one thing — we were strangers. Because the person I loved never really existed. That perfect girl from the first few months? Just a mirror she held up to reflect what I wanted to see.</p>
+    <p>She was right about one thing  we were strangers. Because the person I loved never really existed. That perfect girl from the first few months? Just a mirror she held up to reflect what I wanted to see.</p>
 
-    <p>Now? I'm picking up the pieces. Learning to trust again. And most importantly — learning to choose myself first.</p>
+    <p>Now? I'm picking up the pieces. Learning to trust again. And most importantly learning to choose myself first.</p>
 
     <p class="section-title">To anyone reading this:</p>
-    <p>If you're loving someone who makes you feel alone, remember — you deserve someone who stays. Someone who chooses you as fiercely as you choose them.</p>
+    <p>If you're loving someone who makes you feel alone, remember you deserve someone who stays. Someone who chooses you as fiercely as you choose them.</p>
 
     <div class="footer">&copy; 2025 The Avoidant Ex. All rights reserved.</div>
   </div>
